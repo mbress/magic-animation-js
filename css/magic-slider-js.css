@@ -127,7 +127,7 @@ html, body {
 }
 
 #second .bg {
-	background: url("../images/bg_magic.png") no-repeat center center fixed;
+	background: url("http://wispapp.de/images/banner.png") no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
