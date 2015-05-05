@@ -31,7 +31,7 @@ To use the Magic Slide Js plugin for your Website there are some requirements ne
 
 ##Live Demo
 
-Live Demo [Live Demo](http://mbress.github.io/magic-slide-js/ "Magic Animation Js - Live Demo")
+Here goes to the [Live Demo](http://mbress.github.io/magic-slide-js/ "Magic Animation Js - Live Demo")
 
 ##License
 
