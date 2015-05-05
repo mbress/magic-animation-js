@@ -7,7 +7,7 @@ Powerfull Animation library for your own Website. It's very simple to use and in
 To use the Magic Slide Js plugin for your Website there are some requirements necessary.
 
     *Bind JQuery in your Website
-    *Bind Magic Slide Js after JQuery in your Website
+    *Bind Magic Animation Js after JQuery in your Website
     *Include the stylesheet Animate.css into your Website
     *Define ".invis" class anywhere (opacity = 0)
 
@@ -28,6 +28,10 @@ To use the Magic Slide Js plugin for your Website there are some requirements ne
 	<script src="js/magic_slide.js"></script>...
 </body>
 ```
+
+##Live Demo
+
+Live Demo [Live Demo](http://mbress.github.io/magic-slide-js/ "Magic Animation Js - Live Demo")
 
 ##License
 
