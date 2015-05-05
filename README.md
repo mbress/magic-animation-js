@@ -1,8 +1,35 @@
-#magic-slide-js
+#Magic Animation Js
 
-Include the magic_slide_js.js file at the bottom of the body-tag at your Website and get the magic.
+Powerfull Animation library for your own Website. It's very simple to use and integrate.
 
-License
+##Prerequisites
+
+To use the Magic Slide Js plugin for your Website there are some requirements necessary.
+
+    *Bind JQuery in your Website
+    *Bind Magic Slide Js after JQuery in your Website
+    *Include the stylesheet Animate.css into your Website
+    *Define ".invis" class anywhere (opacity = 0)
+
+```html
+<head>...
+	<link rel="stylesheet" href="http://daneden.github.io/animate.css/animate.min.css">
+	...
+
+	<style>
+	.invis{
+		opacity:0;
+	}
+	</style>
+</head>
+<body>
+	...
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	<script src="js/magic_slide.js"></script>...
+</body>
+```
+
+##License
 
 The MIT License (MIT)
 
